@@ -1,0 +1,26 @@
+﻿{
+  "build_artifactstagingdirectory": "1\\a",
+  "agent_builddirectory": "1",
+  "collectionUrl": "https://dev.azure.com/dgutie17/",
+  "definitionName": "Quiz4_DavidGutierrez-ASP.NET-CI",
+  "repositoryTrackingInfo": [
+    {
+      "identifier": "__designer_repo",
+      "repositoryType": "GitHub",
+      "repositoryUrl": "https://github.com/dagutierrez-mx/WebApplicationQuiz4",
+      "sourcesDirectory": "1\\s\\WebApplicationQuiz4"
+    }
+  ],
+  "fileFormatVersion": 3,
+  "lastRunOn": "11/20/2023 15:15:24 -05:00",
+  "repositoryType": "GitHub",
+  "lastMaintenanceAttemptedOn": "",
+  "lastMaintenanceCompletedOn": "",
+  "build_sourcesdirectory": "1\\s",
+  "common_testresultsdirectory": "1\\TestResults",
+  "collectionId": "a19295be-1135-4d2f-a0bc-e4f94c7b3889",
+  "definitionId": "1",
+  "hashKey": "dd214a571a85bb9aad0380c57b1ae87e1d460096",
+  "repositoryUrl": "https://github.com/dagutierrez-mx/WebApplicationQuiz4",
+  "system": "build"
+}
